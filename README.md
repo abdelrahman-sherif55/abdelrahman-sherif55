@@ -27,6 +27,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 # 📚 Frameworks and Libraries :
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -39,6 +40,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 # 💾 Databases and ORM :
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -47,6 +49,7 @@
 <img align="left" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 
+<br/>
 <br/>
 <br/>
 <br/>
